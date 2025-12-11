@@ -38,6 +38,6 @@ Desenvolvido por Warlen.
 Como você editou o arquivo, não esqueça de rodar os comandos para enviar a atualização:
 
 ```bash
-git add README.md
-git commit -m "docs: atualiza README com instruções de execução"
-git pus
+git add .
+git commit -m "feat: adiciona projeto 02 - Nome do App"
+git push
